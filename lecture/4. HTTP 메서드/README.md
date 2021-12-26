@@ -158,3 +158,5 @@ ex. 파일 관리 시스템
     - HTTP 메서드로 해결하기 애매한 경우만 사용한다.
         - 컨트롤 URI ex. POST /new, /edit, /delete
 
+
+[REST Resource Naming 참고](https://restfulapi.net/resource-naming/)
