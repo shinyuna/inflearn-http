@@ -6,7 +6,7 @@
 - 비 연결성(connectionless)
 - HTTP 메세지
 
-* * *
+* * *   
 
 ## 3-1. HTTP(HyperText Transfer Protocol)
 
